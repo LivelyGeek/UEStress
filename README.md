@@ -2,6 +2,8 @@
 
 Unreal Engine Stress Test Project
 
+For a demo of this project, see: https://youtu.be/v9kynURWW_I
+
 This is a simple C++ project created to stress test the upper limits for
 static meshes, actors, components, etc. It is by no means comprehensive, but
 more of a work in progress to hack on as I learn about features that I'd like

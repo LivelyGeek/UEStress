@@ -91,7 +91,7 @@ void AUEStressPawn::BeginPlay()
 		MeshIndex++;
 
 		// To test with a single mesh, uncomment this break so only one mesh is added to the array.
-		break;
+		//break;
 	}
 
 	RunCommand(TEXT("t.maxfps 240"));
